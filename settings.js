@@ -1,5 +1,5 @@
 const settings = {
-  packname: 'sfx Bot',
+  packname: 'knight Bot',
   author: '‎',
   botName: "weld saif",
   botOwner: 'saif sby3', // Your name
